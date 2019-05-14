@@ -1,5 +1,6 @@
 # LZW - Compression
-### **_(Ubah file README.md ini setelah program diselesaikan)_**
+## Note 
+File yang terkompress akan bertipe .txt, sehingga untuk melakukan decompressing, input file .txt dengan nama yang sama dengan file yang di-compress
 
 ## Latar Belakang
 Pengembangan aplikasi yang berkelanjutan (*sustainable*) menjadi sebuah kejaran yang semakin dicari pada akhir-akhir ini. Penggunaan sumberdaya diatur sedemikian rupa agar dapat terbentuk aplikasi yang sehemat mungkin, termasuk penggunaan energi. Terdapat berbagai metode untuk meningkatkan efisiensi sebuah aplikasi, salah satunya adalah mengurangi penggunaan *storage*. Metode yang aktif dikembangkan dan merupakan salah satu yang paling umum untuk diimplementasikan adalah kompresi.
